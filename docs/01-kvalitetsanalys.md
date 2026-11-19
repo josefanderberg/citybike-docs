@@ -7,8 +7,6 @@ Egenskap: Performance efficiency
 Delegenskap: Time behaviour
 Motivering: Kartan är för långsam under belastning (9 sekunder för 300 användare).
 
-<!-- Josef: K2 till K5 -->
-
 ### K2
 Egenskap:
 Delegenskap:
@@ -28,8 +26,6 @@ Motivering:
 Egenskap:
 Delegenskap:
 Motivering:
-
-<!-- Chloe: K6 till K10 -->
 
 ### K6
 Egenskap:
@@ -58,16 +54,12 @@ Motivering:
 
 ## 2. De fyra viktigaste egenskaperna för CityBike
 
-<!-- Tillsammans -->
-
 1.
 2.
 3.
 4.
 
 ## 3. Mätbara krav
-
-<!-- Josef: Krav 1 och 2 -->
 
 ### Krav 1:
 Krav:
@@ -83,8 +75,6 @@ Gränsvärde:
 Mätmetod:
 Hänvisning:
 
-<!-- Chloe: Krav 3 och 4 -->
-
 ### Krav 3:
 Krav:
 Mått:
@@ -99,8 +89,6 @@ Gränsvärde:
 Mätmetod:
 Hänvisning:
 
-<!-- Josef: räkneuppgiften -->
-
 ### Tillåten nedtid vid 99,7 procent tillgänglighet
 
 Uträkning:
@@ -108,6 +96,4 @@ Uträkning:
 Svar:
 
 ## 4. Skillnad mot ett annat par
-
-<!-- Tillsammans -->
 
